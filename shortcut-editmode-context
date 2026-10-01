@@ -1,0 +1,2 @@
+#!/bin/sh
+exec python3 "$(dirname "$0")/shortcut_editmode_context.py" "$@"
